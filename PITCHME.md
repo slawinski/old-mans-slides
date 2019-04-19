@@ -5,11 +5,18 @@
     - Michael Scott
     @ulend
 @snapend
+
+---?image=https://via.placeholder.com/800x600
 ---
+
 @snap[north]
-## Second slide
+## Third slide
+@snapend
+@snap[east span-40]
+![Silly title slide](https://via.placeholder.com/800x600)
 @snapend
 
-@snap[midpoint]
-![Silly title slide](https://via.placeholder.com/800x600)
+@snap[west snap-60]
+- Some very important findings
+- Even more important findings
 @snapend
