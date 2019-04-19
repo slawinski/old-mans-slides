@@ -18,8 +18,8 @@
 @snapend
 
 @snap[west snap-60]
-@ul[list-bullets-black](false)
+@ol[list-bullets-black](false)
 - Some very important findings
 - Even more important findings
-@ulend
+@olend
 @snapend
