@@ -1,8 +1,6 @@
-@snap[north]
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
-@snapend
 @snap[south-east]
-    @ul[default-list]
+    @ul[default]
     - ~ Wayne Gretzky
       - ~ Michael Scott
     @ulend
