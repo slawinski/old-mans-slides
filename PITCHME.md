@@ -2,7 +2,7 @@
 @snap[south-east default]
     @ul
     - Wayne Gretzky
-    - Michael Scott
+      - Michael Scott
     @ulend
 @snapend
 
@@ -17,6 +17,8 @@
 @snapend
 
 @snap[west snap-60]
-- Some very important findings
-- Even more important findings
+    @ol
+    - Some very important findings
+    - Even more important findings
+    @olend
 @snapend
