@@ -2,7 +2,7 @@
 @snap[south-east]
     @ul[default]
     - ~ Wayne Gretzky
-        - ~ Michael Scott
+      - ~ Michael Scott
     @ulend
 @snapend
 ---
