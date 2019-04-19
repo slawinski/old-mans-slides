@@ -18,7 +18,7 @@
 @snapend
 
 @snap[west snap-60]
-@ul
+@ul[list-bullets-black](false)
 - Some very important findings
 - Even more important findings
 @ulend
