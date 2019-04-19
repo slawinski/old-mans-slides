@@ -1,13 +1,13 @@
-# @size[1.2em](Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione.)
-@snap[south-east default fragment]
+# @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+@snap[south-east default]
     @ul
-    - Lorem ipsum
-    - Debitis incidunt
+    - Wayne Gretzky
+    - Michael Scott
     @ulend
 @snapend
 ---
 @snap[north]
-## Lorem ipsum
+## Second slide
 @snapend
 
 @snap[midpoint]
