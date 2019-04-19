@@ -1,4 +1,8 @@
-# @size[2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+# @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+@snap[east]
+Wayne Gretzky
+    Michael Scott
+@snapend
 ---
 @snap[north]
 ## Second slide
