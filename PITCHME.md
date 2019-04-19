@@ -1,4 +1,4 @@
-# @size[1em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+# @size[2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
 ---
 @snap[north]
 ## Second slide
