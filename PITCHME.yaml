@@ -1,1 +1,5 @@
 theme-override : assets/css/PITCHME.css
+code-line-numbers : true
+transition : fade
+controls-layout : edges
+print-fragments : true
