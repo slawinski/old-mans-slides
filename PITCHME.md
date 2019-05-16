@@ -7,10 +7,11 @@
 @snapend
 
 ---?image=https://via.placeholder.com/800x600
+## Old man's guide to rebranding
 ---
 
 @snap[north]
-## Third slide
+## Getting ready
 @snapend
 
 @snap[east span-40]
@@ -23,3 +24,16 @@
 - Even more important findings
 @olend
 @snapend
+---
+##Survivor bias
+---
+## Hiring process
+---
+## Imposter syndrome
+---
+## My way
+---
+## Blinding finding
+---
+## Conclusion
+
