@@ -25,15 +25,27 @@
 @olend
 @snapend
 ---
-##Survivor bias
+@snap[north]
+## Survivor bias
+@snapend
 ---
+@snap[north]
 ## Hiring process
+@snapend
 ---
+@snap[north]
 ## Imposter syndrome
+@snapend
 ---
+@snap[north]
 ## My way
+@snapend
 ---
+@snap[north]
 ## Blinding finding
+@snapend
 ---
+@snap[north]
 ## Conclusion
+@snapend
 
