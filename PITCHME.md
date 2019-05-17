@@ -5,9 +5,17 @@
   - Michael Scott
 @ulend
 @snapend
+Note:
+
+- YOU MISS.. This is a famous quote from Wayne Gretzky which is not the title of this lightning talk
 
 ---?image=https://via.placeholder.com/800x600
+@snap[north]
 ## Old man's guide to rebranding
+@snapend
+Note:
+
+- Hi! My name is Piotr. I'm a 32 y.o. Junior Frontend Developer with 3 months of experience and welcome to "An old man's guide to rebranding"
 ---
 
 @snap[north]
