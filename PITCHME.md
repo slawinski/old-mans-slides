@@ -1,4 +1,6 @@
+@snap[midpoint]
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+@snapend
 @snap[south-east default]
 @ul
 - Wayne Gretzky
@@ -23,6 +25,7 @@ Note:
 
 @snap[north]
 ## Getting ready
+@snapend
 @ul[list-bullets-black](false)
 - Online courses
 - Books
@@ -31,7 +34,6 @@ Note:
 - Boot camps
 - Live coders
 @ulend
-@snapend
 
 ---
 
@@ -68,18 +70,19 @@ Note:
 
 @snap[north]
 ## My way
+@snapend
 @ul[list-bullets-black](false)
 **Read**
 **Solve**
 **Network**
 **Create**
 @ulend
-@snapend
 
 ---
 
 @snap[north]
 ## Blinding finding
+@snapend
 @ul[list-bullets-black](false)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -87,7 +90,6 @@ Note:
 - [codewars](https://www.codewars.com)
 - [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 @ulend
-@snapend
 
 Note: 
 
