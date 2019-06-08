@@ -23,7 +23,7 @@ Note:
 
 @snap[north]
 ## Getting ready
-@ul
+@ul[list-bullets-black](false)
 - Online courses
 - Books
 - How-tos
@@ -32,6 +32,8 @@ Note:
 - Live coders
 @ulend
 @snapend
+
+---
 
 @snap[east span-40]
 ![Silly title slide](https://via.placeholder.com/800x600)
@@ -66,17 +68,19 @@ Note:
 
 @snap[north]
 ## My way
-**Read:**
-**Solve:**
-**Network:**
-**Create:**
+@ul[list-bullets-black](false)
+**Read**
+**Solve**
+**Network**
+**Create**
+@ulend
 @snapend
 
 ---
 
 @snap[north]
 ## Blinding finding
-@ul
+@ul[list-bullets-black](false)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Syntax.fm](https://syntax.fm/)
