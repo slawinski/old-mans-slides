@@ -1,11 +1,11 @@
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
 ---
 @snap[north-east span-60] 
-@quote[YOU MISS 100% OF THE SHOTS YOU DON'T TAKE] (Wayne Gretzky) 
+@size[1.2em]@quote[YOU MISS 100% OF THE SHOTS YOU DON'T TAKE] (Wayne Gretzky) 
 @snapend
 
 @snap[south-east default]
-@ul[](false)
+@ul
 - Michael Scott
 @ulend
 @snapend
