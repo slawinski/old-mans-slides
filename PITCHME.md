@@ -41,18 +41,19 @@ Something someothing
 @snap[north]
 ## Expectations vs reality
 @snapend
-@snap[east span-60]
+@snap[east span-40]
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
-@snap[west snap-40]
+@snap[west snap-60]
 @ol[list-bullets-black](false)
 - Some very important findings
 - Even more important findings
 @olend
 @snapend
 
-+++?https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png
++++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png
++++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png
 
 ---
 
