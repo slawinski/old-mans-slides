@@ -1,5 +1,5 @@
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
-@snap[south-east default fragment]
+@snap[south-east fragment]
 @ul[](false)
 - Wayne Gretzky
   - Michael Scott
