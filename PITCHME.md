@@ -52,8 +52,8 @@ Something someothing
 @olend
 @snapend
 
-+++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png
-+++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png
++++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png&size=contain
++++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png&size=contain
 
 ---
 
