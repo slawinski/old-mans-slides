@@ -1,10 +1,12 @@
-@snap[midpoint]
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+---
+@snap[north-east span-60] 
+@quote[YOU MISS 100% OF THE SHOTS YOU DON'T TAKE] (Wayne Gretzky) 
 @snapend
+
 @snap[south-east default]
-@ul
-- Wayne Gretzky
-  - Michael Scott
+@ul[](false)
+- Michael Scott
 @ulend
 @snapend
 
@@ -35,10 +37,16 @@ Note:
 - Live coders
 @ulend
 
----
+Note:
 
+Something someothing
+
+---
+@snap[north]
+## Expectations vs reality
+@snapend
 @snap[east span-40]
-![Silly title slide](https://via.placeholder.com/800x600)
+![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
 @snap[west snap-60]
