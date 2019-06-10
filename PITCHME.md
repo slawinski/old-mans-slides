@@ -2,7 +2,6 @@
 @snap[south-east fragment]
 @ul[](false)
 - Wayne Gretzky
-  - Michael Scott
 @ulend
 @snapend
 
@@ -24,6 +23,8 @@ Note:
 @snap[north]
 ## Getting ready
 @snapend
+
+@snap[west]
 @ul[list-bullets-black](false)
 - Online courses
 - Books
@@ -32,6 +33,7 @@ Note:
 - Boot camps
 - Live coders
 @ulend
+@snapend
 
 Note:
 
@@ -67,6 +69,8 @@ Something someothing
 ## Hiring process
 @snapend
 
++++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
+
 ---
 
 @snap[north]
@@ -78,18 +82,23 @@ Something someothing
 @snap[north]
 ## My way
 @snapend
+
+@snap[west]
 @ul[list-bullets-black](false)
-**Read**
-**Solve**
-**Network**
-**Create**
+- **Read**
+- **Solve**
+- **Network**
+- **Create**
 @ulend
+@snapend
 
 ---
 
 @snap[north]
 ## Blinding finding
 @snapend
+
+@snap[west]
 @ul[list-bullets-black](false)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -97,6 +106,7 @@ Something someothing
 - [codewars](https://www.codewars.com)
 - [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 @ulend
+@snapend
 
 Note: 
 
