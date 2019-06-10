@@ -43,15 +43,16 @@ Something someothing
 @snap[north]
 ## Expectations vs reality
 @snapend
-@snap[east span-40]
-![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
-@snapend
 
 @snap[west snap-60]
-@ol[list-bullets-black](false)
-- Some very important findings
+@ul[list-bullets-black](false)
+- Dunning-Kruger effect
 - Even more important findings
-@olend
+@ulend
+@snapend
+
+@snap[east span-40]
+![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png&size=contain
@@ -63,10 +64,27 @@ Something someothing
 ## Survivor bias
 @snapend
 
+@snap[west]
+@ul[list-bullets-black](false)
+- Only success stories get proper visibility
+- Failure is good
+@ulend
+@snapend
+
 ---
 
 @snap[north]
 ## Hiring process
+@snapend
+
+@snap[west snap-60]
+@ul[list-bullets-black](false)
+- Hiring is broken
+@ulend
+@snapend
+
+@snap[east span-40]
+![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png)
 @snapend
 
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
@@ -75,6 +93,14 @@ Something someothing
 
 @snap[north]
 ## Imposter syndrome
+@snapend
+
+@snap[west]
+@ul[list-bullets-black](false)
+- Everyone is smarter than you
+- You faked your way here
+- About to get exposed as a phony
+@ulend
 @snapend
 
 ---
@@ -116,6 +142,14 @@ Note:
 
 @snap[north]
 ## Conclusion
+@snapend
+
+@snap[west span-60]
+(An old man's guide to rebranding)[]
+@snapend
+
+@snap[east span-40]
+![dev.to thumbnail](https://via.placeholder.com/270x180.png)
 @snapend
 
 Note:
