@@ -43,9 +43,9 @@ Something someothing
 
 @snap[west snap-50]
 @ul[list-bullets-black](false)
-- Dunning-Kruger effect:
-    - Assessing abilities as greater than they actually are
-    - Inability to objectively evaluate competence or incompetence.
+Dunning-Kruger effect:
+- Assessing abilities as greater than they actually are
+- Inability to objectively evaluate competence or incompetence.
 @ulend
 @snapend
 
