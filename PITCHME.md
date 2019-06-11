@@ -99,25 +99,25 @@ Are you feeling that:
 @box[bg-white](How to fight it?#Make a list of achievements) 
 @snapend
 
----?color=linear-gradient(90deg, #D88591 70%, white 30%)
+---?color=#D88591
 @snap[north-west span-45 text-center text-white]
 ### @color[white](My way)
 @snapend
 
-@snap[west span-30] 
+@snap[west span-45] 
 @box[bg-white](Read#Books, Posts, Tweets) 
 @snapend
 
-@snap[south-west span-30] 
+@snap[south-west span-45] 
 @box[bg-white](Solve#Whiteboard challanges) 
 @snapend
 
-@snap[midpoint span-30] 
-@box[bg-white](Network#Lorem ipsum) 
+@snap[east span-45] 
+@box[bg-white](Network#Go to meetups, find a mentor, make friends) 
 @snapend
 
-@snap[south span-30] 
-@box[bg-white](Create#Dolor sit amet) 
+@snap[south-east span-45] 
+@box[bg-white](Create#Pet projects, portfolios. Anything goes) 
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
