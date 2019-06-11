@@ -33,8 +33,8 @@ Note:
 
 Something someothing
 
----?color=linear-gradient(90deg, white 50%, #567AD2 50%)
-@snap[north-west span-45 text-center]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-east span-45 text-center]
 ### Expectations vs reality
 @snapend
 
@@ -52,8 +52,8 @@ Something someothing
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png&size=contain
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png&size=contain
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-40 text-center]
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+@snap[north-west span-45 text-center]
 ### Survivor bias
 @snapend
 
@@ -64,8 +64,8 @@ Something someothing
 @ulend
 @snapend
 
----?color=linear-gradient(90deg, white 50%, #567AD2 50%)
-@snap[north-west span-45 text-center]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-east span-40 text-center]
 ### Hiring process
 @snapend
 
@@ -81,8 +81,8 @@ Something someothing
 
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-40 text-center]
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+@snap[north-west span-45 text-center]
 ### Imposter syndrome
 @snapend
 
