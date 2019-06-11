@@ -100,16 +100,16 @@ Are you feeling that:
 @snapend
 
 ---?color=#D88591
-@snap[north-west span-45 text-center text-white]
+@snap[north span-45 text-center text-white]
 ### @color[white](My way)
 @snapend
 
 @snap[west span-45] 
-@box[bg-white](Read#Books, Posts, Tweets) 
+@box[bg-white](Read#Books, Posts, Tweets, How-tos. Or watch a video) 
 @snapend
 
 @snap[south-west span-45] 
-@box[bg-white](Solve#Whiteboard challanges) 
+@box[bg-white](Solve#Whiteboard challenges, online challenges, any kind of challenges) 
 @snapend
 
 @snap[east span-45] 
