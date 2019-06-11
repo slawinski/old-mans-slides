@@ -66,7 +66,7 @@ Something someothing
 
 ---?color=linear-gradient(90deg, #ED9E60 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
-### Hiring process
+### @color[white](Hiring process)
 @snapend
 
 @snap[west snap-60]
@@ -101,7 +101,7 @@ Are you feeling that:
 
 ---?color=linear-gradient(90deg, #D88591 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
-### My way
+### @color[white](My way)
 @snapend
 
 @snap[west span-45] 
@@ -113,11 +113,11 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-white](Network#Lorem ipsum) 
+@box[bg-coral](Network#Lorem ipsum) 
 @snapend
 
 @snap[south-east span-45] 
-@box[bg-white](Create#Dolor sit amet) 
+@box[bg-coral](Create#Dolor sit amet) 
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
@@ -141,14 +141,15 @@ Note:
 
 ---?color=linear-gradient(90deg, #A1C5DA 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
-### Conclusion
+### @color[white](Conclusion)
 @snapend
 
-@snap[west span-45]
-@ul[list-bullets-black](false)
-- The greatest stunt in your career
-- **L**ive **L**augh **L**ove **L**earn
-@ulend
+@snap[west span-45] 
+@box[bg-white](You're about to:#The greatest stunt in your career)
+@snapend
+
+@snap[south-west span-45] 
+@box[bg-white](Meanwhile don't forget to:#**L**ive **L**augh **L**ove **L**earn)
 @snapend
 
 @snap[east span-45]
