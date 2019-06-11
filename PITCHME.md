@@ -41,7 +41,7 @@ Something someothing
 ## Expectations vs reality
 @snapend
 
-@snap[west snap-60]
+@snap[west snap-50]
 @ul[list-bullets-black](false)
 - Dunning-Kruger effect:
     - Assessing abilities as greater than they actually are
