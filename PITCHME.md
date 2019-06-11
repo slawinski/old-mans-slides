@@ -89,11 +89,12 @@ Something someothing
 ### Imposter syndrome
 @snapend
 
-@snap[west span-45]
+@snap[west span-45 text-08]
+Are you feeling that:
 @ul[list-bullets-black](false)
-- Everyone is smarter than you
-- You faked your way here
-- About to get exposed as a phony
+- Everyone is smarter than you?
+- You faked your way here?
+- You're about to get exposed as a phony?
 @ulend
 @snapend
 
