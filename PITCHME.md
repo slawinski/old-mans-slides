@@ -49,7 +49,7 @@ Dunning-Kruger effect:
 @ulend
 @snapend
 
-@snap[east span-40]
+@snap[east span-60]
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
