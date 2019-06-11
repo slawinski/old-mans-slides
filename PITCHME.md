@@ -84,14 +84,12 @@ Something someothing
 
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
 
----
-
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
 @snap[north-west span-40 text-center]
 ### Imposter syndrome
 @snapend
 
-@snap[west]
+@snap[west span-45]
 @ul[list-bullets-black](false)
 - Everyone is smarter than you
 - You faked your way here
@@ -99,35 +97,33 @@ Something someothing
 @ulend
 @snapend
 
-@snap[east span-40] 
-@box[bg-pink](How to fight it?#Make a list of achievements) 
+@snap[east span-45] 
+@box[bg-green](How to fight it?#Make a list of achievements) 
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-
-@snap[north-west span-40 text-center]
+@snap[north-west span-45 text-center]
 ### My way
 @snapend
 
-@snap[west span-40] 
+@snap[west span-45] 
 @box[bg-green](Read#Books, Posts, Tweets) 
 @snapend
 
-@snap[south-west span-40] 
+@snap[south-west span-45] 
 @box[bg-orange](Solve#Whiteboard challanges) 
 @snapend
 
-@snap[east span-40] 
+@snap[east span-45] 
 @box[bg-pink](Network#Lorem ipsum) 
 @snapend
 
-@snap[south-east span-40] 
+@snap[south-east span-45] 
 @box[bg-blue](Create#Dolor sit amet) 
 @snapend
 
----
-
-@snap[north]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-west span-45 text-center]
 ### Blinding finding
 @snapend
 
