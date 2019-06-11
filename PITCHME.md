@@ -104,7 +104,7 @@ Something someothing
 ### My way
 @snapend
 
-@snap[north-west span-40] 
+@snap[west span-40] 
 @box[bg-green](Read#Books, Posts, Tweets) 
 @snapend
 
@@ -112,7 +112,7 @@ Something someothing
 @box[bg-orange](Solve#Whiteboard challanges) 
 @snapend
 
-@snap[north-east span-40] 
+@snap[east span-40] 
 @box[bg-pink](Network#Lorem ipsum) 
 @snapend
 
