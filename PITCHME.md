@@ -99,7 +99,7 @@ Are you feeling that:
 @box[bg-white](How to fight it?#Make a list of achievements) 
 @snapend
 
----?color=linear-gradient(90deg, #D88591 50%, white 50%)
+---?color=linear-gradient(90deg, #D88591 70%, white 30%)
 @snap[north-west span-45 text-center text-white]
 ### @color[white](My way)
 @snapend
@@ -112,12 +112,12 @@ Are you feeling that:
 @box[bg-white](Solve#Whiteboard challanges) 
 @snapend
 
-@snap[east span-45] 
-@box[bg-coral](Network#Lorem ipsum) 
+@snap[midpoint span-45] 
+@box[bg-white](Network#Lorem ipsum) 
 @snapend
 
-@snap[south-east span-45] 
-@box[bg-coral](Create#Dolor sit amet) 
+@snap[south span-45] 
+@box[bg-white](Create#Dolor sit amet) 
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
@@ -145,7 +145,7 @@ Note:
 @snapend
 
 @snap[west span-45] 
-@box[bg-white](You're about to:#The greatest stunt in your career)
+@box[bg-white](You're about to:#Do the greatest stunt in your career)
 @snapend
 
 @snap[south-west span-45] 
