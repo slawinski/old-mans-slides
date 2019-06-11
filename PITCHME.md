@@ -108,10 +108,10 @@ Something someothing
 
 @snap[west]
 @ul[list-bullets-black](false)
-- **Read**
-- **Solve**
-- **Network**
-- **Create**
+- **Read**:
+- **Solve**:
+- **Network**:
+- **Create**:
 @ulend
 @snapend
 
@@ -123,11 +123,11 @@ Something someothing
 
 @snap[west]
 @ul[list-bullets-black](false)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Syntax.fm](https://syntax.fm/)
-- [codewars](https://www.codewars.com)
-- [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+- **[freeCodeCamp](https://www.freecodecamp.org/)**
+- **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)**
+- **[Syntax.fm](https://syntax.fm/)**
+- **[codewars](https://www.codewars.com)**
+- **[CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)**
 @ulend
 @snapend
 
@@ -143,13 +143,13 @@ Note:
 
 @snap[west span-60]
 @ul[list-bullets-black](false)
-- [An old man's guide to rebranding]()
-- Live Laugh Love Learn
+- **[An old man's guide to rebranding]()**
+- **L**ive **L**augh **L**ove **L**earn
 @ulend
 @snapend
 
 @snap[east span-40]
-![dev.to thumbnail](https://via.placeholder.com/270x180.png)
+![dev.to thumbnail](https://thepracticaldev.s3.amazonaws.com/i/nmw2nzv377ucxeps6xrq.png)
 @snapend
 
 Note:
