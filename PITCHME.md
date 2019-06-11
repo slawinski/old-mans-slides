@@ -57,7 +57,7 @@ Something someothing
 ### Survivor bias
 @snapend
 
-@snap[west]
+@snap[west span-45]
 @ul[list-bullets-black](false)
 - Only success stories get proper visibility
 - Failure is good
@@ -99,7 +99,7 @@ Are you feeling that:
 @box[bg-white](How to fight it?#Make a list of achievements) 
 @snapend
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+---?color=linear-gradient(90deg, #D88591 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
 ### My way
 @snapend
@@ -120,7 +120,7 @@ Are you feeling that:
 @box[bg-blue](Create#Dolor sit amet) 
 @snapend
 
----?color=linear-gradient(90deg, white 50%, #A1C5DA 50%)
+---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
 @snap[north-west span-45 text-center]
 ### Blinding finding
 @snapend
@@ -139,7 +139,7 @@ Note:
 
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
 
----?color=linear-gradient(90deg, #90C4D7 50%, white 50%)
+---?color=linear-gradient(90deg, #A1C5DA 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
 ### Conclusion
 @snapend
