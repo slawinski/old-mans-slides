@@ -34,15 +34,16 @@ Note:
 
 Something someothing
 
----?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@snap[west span-40 text-center]
-## Expectations vs reality
+---?color=linear-gradient(100deg, #567AD2 50%, white 50%)
+@snap[west span-50 text-center]
+### Expectations vs reality
+@snapend
 
-Dunning-Kruger effect:
-Assessing abilities as greater than they actually are
-Inability to objectively evaluate competence or incompetence
-
-@ulend
+@snap[east span-40 text-08]
+@box[bg-white](Dunning-Kruger effect # Assessing abilities as greater than they actually are)
+@snapend
+@snap[east span-40 text-08]
+@box[bg-white](Inability to objectively evaluate competence or incompetence)
 @snapend
 
 @snap[east span-45]
