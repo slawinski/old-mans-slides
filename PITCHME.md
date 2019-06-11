@@ -43,8 +43,9 @@ Something someothing
 
 @snap[west snap-60]
 @ul[list-bullets-black](false)
-- Dunning-Kruger effect
-- Even more important findings
+- Dunning-Kruger effect:
+    - Assessing abilities as greater than they actually are
+    - Inability to objectively evaluate competence or incompetence.
 @ulend
 @snapend
 
@@ -123,11 +124,11 @@ Something someothing
 
 @snap[west]
 @ul[list-bullets-black](false)
-- **[freeCodeCamp](https://www.freecodecamp.org/)**
-- **[You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)**
-- **[Syntax.fm](https://syntax.fm/)**
-- **[codewars](https://www.codewars.com)**
-- **[CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)**
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Syntax.fm](https://syntax.fm/)
+- [codewars](https://www.codewars.com)
+- [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 @ulend
 @snapend
 
@@ -143,7 +144,7 @@ Note:
 
 @snap[west span-60]
 @ul[list-bullets-black](false)
-- **[An old man's guide to rebranding]()**
+- [An old man's guide to rebranding]()
 - **L**ive **L**augh **L**ove **L**earn
 @ulend
 @snapend
