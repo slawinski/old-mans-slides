@@ -9,10 +9,7 @@ Note:
 
 - YOU MISS.. This is a famous quote from Wayne Gretzky. Also it's not the title of this lightning talk
 
----?image=https://via.placeholder.com/800x600
-@snap[north]
-## Old man's guide to rebranding
-@snapend
+---?image=assets/img/title.png&size=contain
 
 Note:
 
@@ -145,7 +142,8 @@ Note:
 @snapend
 
 @snap[west span-60]
-(An old man's guide to rebranding)[]
+[An old man's guide to rebranding]()
+Live Laugh Love Learn
 @snapend
 
 @snap[east span-40]
@@ -154,5 +152,5 @@ Note:
 
 Note:
 
-- Most of all remember to Live Laugh Love Learn. I just told you briefly about the Learn part. Try not to forget about the rest because "People make software but happy people make working software."
+- Live Laugh Love Learn. I just told you briefly about the Learn part. Try not to forget about the rest because "People make software but happy people make working software." My name is Piotr and thank you very much for your attention"
 
