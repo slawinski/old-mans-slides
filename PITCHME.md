@@ -142,8 +142,10 @@ Note:
 @snapend
 
 @snap[west span-60]
-[An old man's guide to rebranding]()
-Live Laugh Love Learn
+@ul[list-bullets-black](false)
+- [An old man's guide to rebranding]()
+- Live Laugh Love Learn
+@ulend
 @snapend
 
 @snap[east span-40]
