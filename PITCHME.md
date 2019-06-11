@@ -156,6 +156,9 @@ Note:
 @img[clean-img](assets/img/thumb.png)
 @snapend
 
+@snap[east-south span-45]
+[An man's guide to rebranding](https://dev.to/slawinski/an-old-man-s-guide-to-rebranding-3d6l)
+@snapend
 Note:
 
 - Live Laugh Love Learn. I just told you briefly about the Learn part. Try not to forget about the rest because "People make software but happy people make working software." My name is Piotr and thank you very much for your attention"
