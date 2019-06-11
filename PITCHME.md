@@ -16,7 +16,7 @@ Note:
 ---
 
 @snap[north]
-## Getting ready
+### Getting ready
 @snapend
 
 @snap[west]
@@ -34,8 +34,8 @@ Note:
 
 Something someothing
 
----?color=linear-gradient(100deg, #567AD2 50%, white 50%)
-@snap[north-west span-50 text-center]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-west span-40 text-center]
 ### Expectations vs reality
 @snapend
 
@@ -56,7 +56,7 @@ Something someothing
 ---
 
 @snap[north]
-## Survivor bias
+### Survivor bias
 @snapend
 
 @snap[west]
@@ -69,7 +69,7 @@ Something someothing
 ---
 
 @snap[north]
-## Hiring process
+### Hiring process
 @snapend
 
 @snap[west snap-60]
@@ -87,7 +87,7 @@ Something someothing
 ---
 
 @snap[north]
-## Imposter syndrome
+### Imposter syndrome
 @snapend
 
 @snap[west]
@@ -100,23 +100,21 @@ Something someothing
 
 ---
 
-@snap[north]
-## My way
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-west span-40 text-center]
+### My way
 @snapend
 
-@snap[west]
-@ul[list-bullets-black](false)
-- **Read**:
-- **Solve**:
-- **Network**:
-- **Create**:
-@ulend
+@snap[west span-40] @box[bg-green](Read#Books, Posts, Tweets) @snapend
+@snap[south-west span-40] @box[bg-orange](Solve#Whiteboard challanges) @snapend
+@snap[east span-40] @box[bg-pink](Network#Lorem ipsum) @snapend
+@snap[south-east span-40] @box[bg-blue](Create#Dolor sit amet) @snapend
 @snapend
 
 ---
 
 @snap[north]
-## Blinding finding
+### Blinding finding
 @snapend
 
 @snap[west]
