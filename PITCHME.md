@@ -13,9 +13,8 @@ Note:
 
 - Hi! My name is Piotr. I'm a 32 y.o. Junior Frontend Developer with 3 months of experience and welcome to the "Old man's guide to rebranding"!
 
----
-
-@snap[north]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-west span-45 text-center]
 ### Getting ready
 @snapend
 
@@ -34,8 +33,8 @@ Note:
 
 Something someothing
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-40 text-center]
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+@snap[north-west span-45 text-center]
 ### Expectations vs reality
 @snapend
 
@@ -53,9 +52,8 @@ Something someothing
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png&size=contain
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png&size=contain
 
----
-
-@snap[north]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-east span-40 text-center]
 ### Survivor bias
 @snapend
 
@@ -66,9 +64,8 @@ Something someothing
 @ulend
 @snapend
 
----
-
-@snap[north]
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+@snap[north-west span-45 text-center]
 ### Hiring process
 @snapend
 
@@ -85,7 +82,7 @@ Something someothing
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-40 text-center]
+@snap[north-east span-40 text-center]
 ### Imposter syndrome
 @snapend
 
@@ -103,7 +100,7 @@ Are you feeling that:
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-45 text-center]
+@snap[north-east span-45 text-center]
 ### My way
 @snapend
 
@@ -123,7 +120,7 @@ Are you feeling that:
 @box[bg-blue](Create#Dolor sit amet) 
 @snapend
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 @snap[north-west span-45 text-center]
 ### Blinding finding
 @snapend
@@ -142,13 +139,12 @@ Note:
 
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
 
----
-
-@snap[north]
-## Conclusion
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-east span-45 text-center]
+### Conclusion
 @snapend
 
-@snap[west span-60]
+@snap[west span-45]
 @ul[list-bullets-black](false)
 - [An old man's guide to rebranding]()
 - **L**ive **L**augh **L**ove **L**earn
