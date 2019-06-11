@@ -105,11 +105,11 @@ Are you feeling that:
 @snapend
 
 @snap[west span-45] 
-@box[bg-white](Read#Books, Posts, Tweets, How-tos. Or watch a video) 
+@box[bg-white](Read#Books, Posts, Tweets. Or watch a video) 
 @snapend
 
 @snap[south-west span-45] 
-@box[bg-white](Solve#Whiteboard challenges, online challenges, any kind of challenges) 
+@box[bg-white](Solve#Whiteboard challenges or in fact any kind of challenges) 
 @snapend
 
 @snap[east span-45] 
