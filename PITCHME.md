@@ -34,7 +34,7 @@ Note:
 Something someothing
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-45 text-center]
+@snap[north-west span-45 text-center text-white]
 ### Expectations vs reality
 @snapend
 
@@ -65,7 +65,7 @@ Something someothing
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-45 text-center]
+@snap[north-west span-45 text-center text-white]
 ### Hiring process
 @snapend
 
@@ -100,7 +100,7 @@ Are you feeling that:
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-45 text-center]
+@snap[north-west span-45 text-center text-white]
 ### My way
 @snapend
 
@@ -140,7 +140,7 @@ Note:
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-west span-45 text-center]
+@snap[north-west span-45 text-center text-white]
 ### Conclusion
 @snapend
 
