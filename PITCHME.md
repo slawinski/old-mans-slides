@@ -151,8 +151,8 @@ Note:
 @ulend
 @snapend
 
-@snap[east span-40]
-![dev.to thumbnail](https://thepracticaldev.s3.amazonaws.com/i/nmw2nzv377ucxeps6xrq.png)
+@snap[east span-45]
+![dev.to thumbnail](assets/img/thumb.png)
 @snapend
 
 Note:
