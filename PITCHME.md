@@ -69,7 +69,7 @@ Something someothing
 ### @color[white](Hiring process)
 @snapend
 
-@snap[west snap-60]
+@snap[west snap-60 text-white]
 @ul[list-bullets-black](false)
 - Hiring is broken
 @ulend
@@ -104,19 +104,19 @@ Are you feeling that:
 ### @color[white](My way)
 @snapend
 
-@snap[west span-45] 
+@snap[west span-30] 
 @box[bg-white](Read#Books, Posts, Tweets) 
 @snapend
 
-@snap[south-west span-45] 
+@snap[south-west span-30] 
 @box[bg-white](Solve#Whiteboard challanges) 
 @snapend
 
-@snap[midpoint span-45] 
+@snap[midpoint span-30] 
 @box[bg-white](Network#Lorem ipsum) 
 @snapend
 
-@snap[south span-45] 
+@snap[south span-30] 
 @box[bg-white](Create#Dolor sit amet) 
 @snapend
 
