@@ -104,11 +104,17 @@ Something someothing
 ### My way
 @snapend
 
-@snap[west span-40] @box[bg-green](Read#Books, Posts, Tweets) @snapend
+@snap[north-west span-40] 
+@box[bg-green](Read#Books, Posts, Tweets) 
+@snapend
 
-@snap[south-west span-40] @box[bg-orange](Solve#Whiteboard challanges) @snapend
+@snap[south-west span-40] 
+@box[bg-orange](Solve#Whiteboard challanges) 
+@snapend
 
-@snap[east span-40] @box[bg-pink](Network#Lorem ipsum) @snapend
+@snap[north-east span-40] 
+@box[bg-pink](Network#Lorem ipsum) 
+@snapend
 
 @snap[south-east span-40] @box[bg-blue](Create#Dolor sit amet) @snapend
 
