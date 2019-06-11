@@ -45,7 +45,7 @@ Something someothing
 @ul[list-bullets-black](false)
 
 Dunning-Kruger effect:
-- Assessing abilities as greater than they actually are
+- @box[](Assessing abilities as greater than they actually are)
 - Inability to objectively evaluate competence or incompetence.
 
 @ulend
