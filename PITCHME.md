@@ -105,11 +105,11 @@ Are you feeling that:
 @snapend
 
 @snap[west span-45] 
-@box[bg-green](Read#Books, Posts, Tweets) 
+@box[bg-white](Read#Books, Posts, Tweets) 
 @snapend
 
 @snap[south-west span-45] 
-@box[bg-orange](Solve#Whiteboard challanges) 
+@box[bg-white](Solve#Whiteboard challanges) 
 @snapend
 
 @snap[east span-45] 
@@ -152,7 +152,7 @@ Note:
 @snapend
 
 @snap[east span-45]
-![dev.to thumbnail](assets/img/thumb.png)
+@img[clean-img](assets/img/thumb.png)
 @snapend
 
 Note:
