@@ -41,15 +41,17 @@ Something someothing
 ## Expectations vs reality
 @snapend
 
-@snap[west snap-50]
+@snap[west snap-45]
 @ul[list-bullets-black](false)
+
 Dunning-Kruger effect:
 - Assessing abilities as greater than they actually are
 - Inability to objectively evaluate competence or incompetence.
+
 @ulend
 @snapend
 
-@snap[east span-60]
+@snap[east span-45]
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
