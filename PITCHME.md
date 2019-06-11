@@ -86,7 +86,8 @@ Something someothing
 
 ---
 
-@snap[north]
+---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+@snap[north-west span-40 text-center]
 ### Imposter syndrome
 @snapend
 
@@ -96,6 +97,10 @@ Something someothing
 - You faked your way here
 - About to get exposed as a phony
 @ulend
+@snapend
+
+@snap[east span-40] 
+@box[bg-pink](How to fight it?#Make a list of achievements) 
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
@@ -116,7 +121,9 @@ Something someothing
 @box[bg-pink](Network#Lorem ipsum) 
 @snapend
 
-@snap[south-east span-40] @box[bg-blue](Create#Dolor sit amet) @snapend
+@snap[south-east span-40] 
+@box[bg-blue](Create#Dolor sit amet) 
+@snapend
 
 ---
 
