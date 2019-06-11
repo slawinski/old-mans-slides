@@ -1,8 +1,6 @@
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
 @snap[south-east fragment]
-@ul[](false)
-- Wayne Gretzky
-@ulend
+@fa[quote-left quote-graphql](Wayne Gretzky)
 @snapend
 
 Note:
@@ -36,17 +34,13 @@ Note:
 
 Something someothing
 
----
-@snap[north]
+---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
+@snap[west span-40 text-center]
 ## Expectations vs reality
-@snapend
-
-@snap[west snap-45]
-@ul[list-bullets-black](false)
 
 Dunning-Kruger effect:
-- @box[](Assessing abilities as greater than they actually are)
-- Inability to objectively evaluate competence or incompetence.
+Assessing abilities as greater than they actually are
+Inability to objectively evaluate competence or incompetence
 
 @ulend
 @snapend
