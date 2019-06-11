@@ -35,7 +35,7 @@ Something someothing
 
 ---?color=linear-gradient(90deg, #8C9E9E 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
-### Expectations vs reality
+### @color[white](Expectations vs reality)
 @snapend
 
 @snap[west span-40 text-08]
@@ -113,11 +113,11 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-pink](Network#Lorem ipsum) 
+@box[bg-white](Network#Lorem ipsum) 
 @snapend
 
 @snap[south-east span-45] 
-@box[bg-blue](Create#Dolor sit amet) 
+@box[bg-white](Create#Dolor sit amet) 
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
