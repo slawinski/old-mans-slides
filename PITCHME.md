@@ -13,7 +13,7 @@ Note:
 
 - Hi! My name is Piotr. I'm a 32 y.o. Junior Frontend Developer with 3 months of experience and welcome to the "Old man's guide to rebranding"!
 
----?color=linear-gradient(90deg, #567AD2 50%, white 50%)
+---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 @snap[north-west span-45 text-center]
 ### Getting ready
 @snapend
@@ -34,7 +34,7 @@ Note:
 Something someothing
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-45 text-center]
+@snap[north-west span-45 text-center]
 ### Expectations vs reality
 @snapend
 
@@ -65,7 +65,7 @@ Something someothing
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-40 text-center]
+@snap[north-west span-45 text-center]
 ### Hiring process
 @snapend
 
@@ -96,11 +96,11 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-green](How to fight it?#Make a list of achievements) 
+@box[bg-white](How to fight it?#Make a list of achievements) 
 @snapend
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-45 text-center]
+@snap[north-west span-45 text-center]
 ### My way
 @snapend
 
@@ -140,7 +140,7 @@ Note:
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
 
 ---?color=linear-gradient(90deg, #567AD2 50%, white 50%)
-@snap[north-east span-45 text-center]
+@snap[north-west span-45 text-center]
 ### Conclusion
 @snapend
 
