@@ -157,7 +157,7 @@ Note:
 @snapend
 
 @snap[south-east span-45]
-[An man's guide to rebranding](https://dev.to/slawinski/an-old-man-s-guide-to-rebranding-3d6l)
+[An old man's guide to rebranding](https://dev.to/slawinski/an-old-man-s-guide-to-rebranding-3d6l)
 @snapend
 
 Note:
