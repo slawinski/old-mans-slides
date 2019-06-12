@@ -150,18 +150,6 @@ Are you feeling that:
 @ulend
 @snapend
 
-@snap[north-east span-45 text-center]
-@img[clean-img](assets/img/ydkjs2.jpg)
-@snapend
-
-@snap[east span-45 text-center]
-@img[clean-img](assets/img/syntax2.png)
-@snapend
-
-@snap[south-east span-45 text-center]
-@img[clean-img](assets/img/cs50.jpg)
-@snapend
-
 Note: 
 
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
