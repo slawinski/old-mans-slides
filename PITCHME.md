@@ -150,6 +150,11 @@ Are you feeling that:
 @ulend
 @snapend
 
+
+@snap[east span-45]
+@img[clean-img](assets/img/ydkjs.png)
+@snapend
+
 Note: 
 
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you.
