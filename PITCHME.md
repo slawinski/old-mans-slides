@@ -171,7 +171,7 @@ Note:
 @box[bg-white](Create#Pet projects, portfolios. Anything goes) 
 @snapend
 
-Notes:
+Note:
 
 - Advice how to get what you want
 - Complete immersion
