@@ -29,16 +29,8 @@ Note:
 @ulend
 @snapend
 
-@snap[north-east span-45 text-white]
-@fa[book]
-@snapend
-
-@snap[east span-45 text-white]
-@fa[microphone-alt text-white]
-@snapend
-
-@snap[south-east span-45 text-white]
-@fa[campground text-white]
+@snap[east span-45 text-white text-center] 
+@fa[book fa-lg] @fa[microphone-alt fa-lg] @fa[campground fa-lg]
 @snapend
 
 Note:
