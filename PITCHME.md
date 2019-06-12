@@ -83,7 +83,7 @@ Something someothing
 @snapend
 
 @snap[north-east span-45] 
-@box[bg-white](What about:# Fitting within the team? Identifying with thed company values?) 
+@box[bg-white](What about:# Fitting within the team? Identifying with the company values? Delivering results in uncertain world?) 
 @snapend
 
 @snap[south-east span-45]
@@ -116,7 +116,7 @@ Are you feeling that:
 @snapend
 
 @snap[west span-45] 
-@box[bg-white](Read#Books, Posts, Tweets. Or watch a video) 
+@box[bg-white](Read#Books, Posts, Tweets </br>...Or watch a video) 
 @snapend
 
 @snap[east span-45] 
