@@ -151,15 +151,15 @@ Are you feeling that:
 @snapend
 
 @snap[north-east span-45 text-center]
-@img[clean-img](assets/img/ydkjs.jpg&size=50%)
+@img[clean-img](assets/img/ydkjs2.jpg)
 @snapend
 
 @snap[east span-45 text-center]
-@img[clean-img](assets/img/syntax.png&size=50%)
+@img[clean-img](assets/img/syntax2.png)
 @snapend
 
 @snap[south-east span-45 text-center]
-@img[clean-img](assets/img/cs50.jpg&size=50%)
+@img[clean-img](assets/img/cs50.jpg)
 @snapend
 
 Note: 
