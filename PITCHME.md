@@ -1,6 +1,6 @@
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
 @snap[south-east]
-@fa[quote-left quote-graphql](Wayne Gretzky)
+@fa[quote-left](Wayne Gretzky)
 @snapend
 
 Note:
@@ -27,6 +27,18 @@ Note:
 - Boot camps
 - Live coders
 @ulend
+@snapend
+
+@snap[north-east span-45 text-white]
+@fa[fa-book]
+@snapend
+
+@snap[east span-45 text-white]
+@fa[fa-microphone-alt text-white]
+@snapend
+
+@snap[south-east span-45 text-white]
+@fa[fa-campground text-white]
 @snapend
 
 Note:
