@@ -5,13 +5,18 @@
 
 Note:
 
-- YOU MISS.. This is a famous quote from Wayne Gretzky. Also it's not the title of this lightning talk
+- Quote from Wayne Gretzky
+- Describes what I'm about to tell
+- It's not the title of this lightning talk
 
 ---?image=assets/img/title.png&size=contain
 
 Note:
 
-- Hi! My name is Piotr. I'm a 32 y.o. Junior Frontend Developer with 3 months of experience and welcome to the "Old man's guide to rebranding"!
+- Hi! My name is Piotr
+- 32 y.o. Junior Frontend Developer 
+- Welcome to the "Old man's guide to rebranding"!
+- Following slides about starting a developer career
 
 ---?color=linear-gradient(90deg, white 50%, #8ACAE5 50%)
 @snap[north-west span-45 text-center]
@@ -35,7 +40,12 @@ Note:
 
 Note:
 
-Something someothing
+- Everything is on the internet
+- Courses online great for beginner, not for pros
+- Books can be obsolete
+- How-tos can be of shit quality
+- Bootcamp you already know
+- Streaming error troubleshooting is the real deal
 
 ---?color=linear-gradient(90deg, #8C9E9E 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
@@ -53,6 +63,13 @@ Something someothing
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png)
 @snapend
 
+Note:
+
+- After reading everything you can start to apply
+- I failed miserably at the HH peak
+- Cycle goes on and on
+- Milestones are important
+
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/f0x564ltwkqvoftwaign.png&size=contain
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/c80oanee71u7p6qlzexy.png&size=contain
 
@@ -63,8 +80,8 @@ Something someothing
 
 @snap[west span-45]
 @ul[list-bullets-black text-08](false)
-- Failure is good
 - Only success stories get proper visibility
+- Failure is good
 - Everyone can code, but not everyone is fit for the job
 @ulend
 @snapend
@@ -72,6 +89,11 @@ Something someothing
 @snap[east span-45] 
 @box[bg-white](A success story:#Dev job without a CS degree in under 6 months)
 @snapend
+
+Note:
+
+- Succ. stories unbelivable but possibly true
+- We could have less hype if more fail stories
 
 ---?color=linear-gradient(90deg, #ED9E60 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
@@ -94,6 +116,12 @@ Something someothing
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png)
 @snapend
 
+Note:
+
+- I read about it
+- I wouldn't know
+- Candidate for a senior mentoring junior as an interview
+
 +++?image=https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png&size=contain
 
 ---?color=linear-gradient(90deg, white 50%, #E05E51 50%)
@@ -113,6 +141,14 @@ Are you feeling that:
 @snap[east span-45] 
 @box[bg-white](How to fight it?#Make a list of achievements) 
 @snapend
+
+Note:
+
+- My old friend
+- Test: Have you answered 'YES' to the questions?
+- Diagnosis is: Imposter Syndrome
+- I have it at this moment
+- Prescription: make an achievements list
 
 ---?color=#D88591
 @snap[north span-45 text-center text-white]
@@ -135,6 +171,12 @@ Are you feeling that:
 @box[bg-white](Create#Pet projects, portfolios. Anything goes) 
 @snapend
 
+Notes:
+
+- Advice how to get what you want
+- Complete immersion
+- Social media only for programming
+
 ---?color=linear-gradient(90deg, white 50%, #D6B865 50%)
 @snap[north-west span-45 text-center]
 ### Blinding finding
@@ -143,6 +185,7 @@ Are you feeling that:
 @snap[west]
 @ul[list-bullets-black text-08](false)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [30secondsofinterviews](https://30secondsofinterviews.org/)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Syntax.fm](https://syntax.fm/)
 - [codewars](https://www.codewars.com)
@@ -152,7 +195,12 @@ Are you feeling that:
 
 Note: 
 
-- If you're like Jon Snow and know nothing then freecodecamp is the website for you.
+- If you're like Jon Snow and know nothing then freecodecamp is the website for you
+- They have answers for every interview question
+- Not sure which book first but YDKJS should be your second
+- Wes Bos and Scott Tolinski. Over 100 episodes. Best. Podcast. Ever. 
+- Since hiring is broken, then CW is good for challenges
+- CS50 is free CS course from Harvard
 
 ---?color=linear-gradient(90deg, #A1C5DA 50%, white 50%)
 @snap[north-west span-45 text-center text-white]
@@ -173,5 +221,9 @@ Note:
 
 Note:
 
-- Live Laugh Love Learn. I just told you briefly about the Learn part. Try not to forget about the rest because "People make software but happy people make working software." My name is Piotr and thank you very much for your attention"
+- Thinking about picking up coding? Do it.  
+- I just told you about the Learning part
+- Don't forget about the rest because 
+-"People make software but happy people make working software." 
+- My name is Piotr and thank you very much for your attention"
 
