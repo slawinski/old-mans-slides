@@ -19,7 +19,7 @@ Note:
 @snapend
 
 @snap[west span-45]
-@ul[list-bullets-black](false)
+@ul[list-bullets-black text-08](false)
 - Online courses
 - Books
 - How-tos
@@ -58,7 +58,7 @@ Something someothing
 @snapend
 
 @snap[west span-45]
-@ul[list-bullets-black](false)
+@ul[list-bullets-black text-08](false)
 - Failure is good
 - Only success stories get proper visibility
 - Everyone can code, but not everyone is fit for the job
@@ -75,7 +75,7 @@ Something someothing
 @snapend
 
 @snap[west span-45 text-white]
-@ul[list-bullets-black](false)
+@ul[list-bullets-black text-08](false)
 - Technical interviewing is broken
 - Solving irrelevant algorithms
 - Knowing textbooks by heart
@@ -137,7 +137,7 @@ Are you feeling that:
 @snapend
 
 @snap[west]
-@ul[list-bullets-black](false)
+@ul[list-bullets-black text-08](false)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Syntax.fm](https://syntax.fm/)
