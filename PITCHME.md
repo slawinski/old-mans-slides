@@ -76,11 +76,17 @@ Something someothing
 
 @snap[west snap-60 text-white]
 @ul[list-bullets-black](false)
-- Hiring is broken
+- Technical interviewing is broken
+- Solving irrelevant algorithms
+- Knowing textbooks by heart
 @ulend
 @snapend
 
-@snap[east span-40]
+@snap[north-east span-45] 
+@box[bg-white](What about:# Fitting within the team? Identifying with thed company values?) 
+@snapend
+
+@snap[south-east span-40]
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png)
 @snapend
 
