@@ -164,10 +164,6 @@ Note:
 @snapend
 
 @snap[east span-45]
-@img[clean-img](assets/img/thumb.png)
-@snapend
-
-@snap[south-east span-45]
 [@img[clean-img](assets/img/thumb.png)](https://dev.to/slawinski/an-old-man-s-guide-to-rebranding-3d6l)
 @snapend
 
