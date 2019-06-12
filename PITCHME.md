@@ -59,9 +59,14 @@ Something someothing
 
 @snap[west span-45]
 @ul[list-bullets-black](false)
-- Only success stories get proper visibility
 - Failure is good
+- Only success stories get proper visibility
+- Everyone can code, but not everyone is fit for the job
 @ulend
+@snapend
+
+@snap[east span-45] 
+@box[bg-white](A success story:#Dev job without a CS degree in under 6 months)
 @snapend
 
 ---?color=linear-gradient(90deg, #ED9E60 50%, white 50%)
