@@ -41,7 +41,7 @@ Note:
 Note:
 
 - Everything is on the internet
-- Courses online great for beginner, not for pros
+- Courses great for beginner, not for pros
 - Books can be obsolete
 - How-tos can be of shit quality
 - Bootcamp you already know
