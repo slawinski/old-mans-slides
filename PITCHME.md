@@ -30,15 +30,15 @@ Note:
 @snapend
 
 @snap[north-east span-45 text-white]
-@fa[fa-book]
+@fa[book]
 @snapend
 
 @snap[east span-45 text-white]
-@fa[fa-microphone-alt text-white]
+@fa[microphone-alt text-white]
 @snapend
 
 @snap[south-east span-45 text-white]
-@fa[fa-campground text-white]
+@fa[campground text-white]
 @snapend
 
 Note:
