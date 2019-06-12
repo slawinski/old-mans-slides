@@ -1,5 +1,5 @@
 # @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
-@snap[south-east fragment]
+@snap[south-east]
 @fa[quote-left quote-graphql](Wayne Gretzky)
 @snapend
 
@@ -18,7 +18,7 @@ Note:
 ### Getting ready
 @snapend
 
-@snap[west]
+@snap[west span-45]
 @ul[list-bullets-black](false)
 - Online courses
 - Books
@@ -38,10 +38,10 @@ Something someothing
 ### @color[white](Expectations vs reality)
 @snapend
 
-@snap[west span-40 text-08]
+@snap[west span-45 text-08]
 @box[bg-white](Dunning-Kruger effect # Assessing abilities as greater than they actually are)
 @snapend
-@snap[south-west span-40 text-08]
+@snap[south-west span-45 text-08]
 @box[bg-white](Inability to objectively evaluate competence or incompetence)
 @snapend
 
@@ -74,7 +74,7 @@ Something someothing
 ### @color[white](Hiring process)
 @snapend
 
-@snap[west snap-60 text-white]
+@snap[west span-45 text-white]
 @ul[list-bullets-black](false)
 - Technical interviewing is broken
 - Solving irrelevant algorithms
@@ -86,7 +86,7 @@ Something someothing
 @box[bg-white](What about:# Fitting within the team? Identifying with thed company values?) 
 @snapend
 
-@snap[south-east span-40]
+@snap[south-east span-45]
 ![Coding competence vs confidence](https://thepracticaldev.s3.amazonaws.com/i/wlfi8otqnfxox2y495tx.png)
 @snapend
 
