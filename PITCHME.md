@@ -30,7 +30,7 @@ Note:
 @snapend
 
 @snap[east span-45 text-white text-center] 
-@fa[book fa-lg] @fa[microphone-alt fa-lg] @fa[campground fa-lg]
+@fa[book fa-2x] @fa[microphone-alt fa-2x] @fa[campground fa-2x]
 @snapend
 
 Note:
