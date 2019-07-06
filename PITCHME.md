@@ -56,10 +56,11 @@ Note:
 @snapend
 
 @snap[west span-45 text-08]
-@box[bg-white](Dunning-Kruger effect # Assessing abilities as greater than they actually are)
-@snapend
-@snap[south-west span-45 text-08]
-@box[bg-white](Inability to objectively evaluate competence or incompetence)
+@box[bg-white](Dunning-Kruger effect#
+@ul[list-bullets-black text-08](false)
+- Assessing abilities as greater than they actually are
+- Inability to objectively evaluate competence or incompetence
+@ulend)
 @snapend
 
 @snap[east span-45]
@@ -142,7 +143,7 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-white](How to fight it?#Make a list of achievements <br> talk with your coworkers) 
+@box[bg-white](How to fight it?#Make a list of achievements, talk with your coworkers) 
 @snapend
 
 Note:
