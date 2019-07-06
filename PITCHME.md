@@ -138,8 +138,12 @@ Are you feeling that:
 @ulend
 @snapend
 
-@snap[east span-45] 
+@snap[north-east span-45] 
 @box[bg-white](How to fight it?#Make a list of achievements, talk with your coworkers) 
+@snapend
+
+@snap[south-east span-45]
+![Achievements](/assets/img/achievements.png)
 @snapend
 
 Note:
