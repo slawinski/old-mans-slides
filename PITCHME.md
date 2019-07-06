@@ -56,10 +56,8 @@ Note:
 @snapend
 
 @snap[west span-45 text-08]
-@box[bg-white](Dunning-Kruger effect#Assessing abilities as greater than they actually are)
-@snapend
-@snap[south-west span-45 text-08]
-@box[bg-white](Inability to objectively evaluate competence or incompetence)
+@box[bg-white](Dunning-Kruger effect#- Assessing abilities as greater than they actually are 
+<br/>- Inability to objectively evaluate competence or incompetence)
 @snapend
 
 @snap[east span-45]
