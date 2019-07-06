@@ -1,4 +1,4 @@
-@snap[midpoint h1-black text-8]
+@snap[midpoint h1-black text-08]
 # YOU MISS 100% OF THE SHOTS YOU DON'T TAKE
 @snapend
 
