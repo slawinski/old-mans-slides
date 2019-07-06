@@ -142,11 +142,7 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-white](How to fight it?#Make a list of achievements (add some graphics)) 
-@snapend
-
-@snap[south-east span-45] 
-@box[bg-white](How to fight it?#Tell your coworkers about it) 
+@box[bg-white](How to fight it?#Make a list of achievements <br> talk with your coworkers) 
 @snapend
 
 Note:
