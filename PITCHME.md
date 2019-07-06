@@ -1,4 +1,7 @@
-# @size[1.2em](YOU MISS 100% OF THE SHOTS YOU DON'T TAKE)
+@snap[midpoint h1-black text-12]
+# YOU MISS 100% OF THE SHOTS YOU DON'T TAKE
+@snapend
+
 @snap[south-east]
 @fa[quote-left](Wayne Gretzky)
 @snapend
