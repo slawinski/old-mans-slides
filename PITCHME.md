@@ -139,7 +139,11 @@ Are you feeling that:
 @snapend
 
 @snap[east span-45] 
-@box[bg-white](How to fight it?#Make a list of achievements) 
+@box[bg-white](How to fight it?#Make a list of achievements (add some graphics)) 
+@snapend
+
+@snap[south-east span-45] 
+@box[bg-white](How to fight it?#Tell your coworkers about it) 
 @snapend
 
 Note:
@@ -147,6 +151,7 @@ Note:
 - My old friend
 - Test: Have you answered 'YES' to the questions?
 - Diagnosis is: Imposter Syndrome
+- Imposter syndrome is when you show up for work after a month and still feel like you didn't pass the interview.
 - I have it at this moment
 - Prescription: make an achievements list
 

@@ -1,3 +1,4 @@
+theme : template
 theme-override: assets/css/PITCHME.css
 code-line-numbers: true
 transition: fade
