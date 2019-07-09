@@ -198,11 +198,11 @@ Note:
 @ulend
 @snapend
 
-@snap[north-east span-45]
+@snap[south-west span-45]
 ![ydkjs](/assets/img/ydkjs.png)
 @snapend
 
-@snap[east span-45]
+@snap[north-east span-45]
 ![syntaxfm](/assets/img/syntaxfm.png)
 @snapend
 
