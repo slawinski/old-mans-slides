@@ -198,6 +198,19 @@ Note:
 @ulend
 @snapend
 
+@snap[north-east span-45]
+![ydkjs](/assets/img/ydkjs.png)
+@snapend
+
+@snap[east span-45]
+![syntaxfm](/assets/img/syntaxfm.png)
+@snapend
+
+@snap[south-east span-45]
+![freecodecamp](/assets/img/freecodecamp.jpg)
+@snapend
+
+
 Note: 
 
 - If you're like Jon Snow and know nothing then freecodecamp is the website for you
